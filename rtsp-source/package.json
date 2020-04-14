@@ -1,0 +1,19 @@
+{
+  "name": "gst-rtsp-webrtc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liqi0816/gst-rtsp-webrtc.git"
+  },
+  "author": "LI, Qi <goodlq11@gmail.com>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/liqi0816/gst-rtsp-webrtc/issues"
+  },
+  "homepage": "https://github.com/liqi0816/gst-rtsp-webrtc#readme",
+  "devDependencies": {
+    "rtsp-streaming-server": "^2.0.6"
+  }
+}
